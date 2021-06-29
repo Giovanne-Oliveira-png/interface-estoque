@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: monospace
+  -webkit-font-smoothing Arial, Helvetica, sans-serif
+  -moz-osx-font-smoothing Arial, Helvetica, sans-serif
+}
+
+code {
+  font-family:monospace
+}
